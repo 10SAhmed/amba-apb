@@ -1,2 +1,2 @@
 # amba-apb
-It contains design and verification files for AMBA APB Protocol. It is done for learning purpose.
+It contains design files for AMBA APB Protocol v3.0. It is done for learning purpose.
